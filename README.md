@@ -5,8 +5,6 @@ In my case, I had trouble working with **BurpSuite** and **OWASP-ZAP**
 
 If you have a look at the following image, you can see that there's a blank space at the right of the window. You can literally only use half of your screen. In addition, some tabs were not working at all (for example,.I couldn't use the intruder)
 
-<img src="https://i.ibb.co/LJPsWHf/Virtual-Box-Kali-VM-21-11-2021-23-33-24.png">
-<img src="https://i.ibb.co/bm9P7pT/Virtual-Box-Kali-VM-21-11-2021-23-33-53.png">
 <img src="https://i.ibb.co/D5w4cWc/Virtual-Box-Kali-VM-21-11-2021-23-38-49.png">
 
 I tried OWASP-ZAP as an alternative, but turns out it also uses java and it didn't work at all. The GUI was fully empty, and I could do nothing.
@@ -48,5 +46,6 @@ Now, if you use the shortcuts to launch the applications, the variable will be e
 
 And voila, stuff works again
 
-![[VirtualBox_Kali VM_21_11_2021_23_33_24.png]]
-![[VirtualBox_Kali VM_21_11_2021_23_33_53.png]]
+
+<img src="https://imgur.com/qlq8dUB.png">
+<img src="https://imgur.com/fF05LGD.png">
